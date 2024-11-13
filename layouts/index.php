@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <?php include ('header.php'); ?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zodiac</title>
 </head>
-<body class="container">
+<body class="container-5">
     <h1 class="text-center">Descubra o seu signo</h1>
     <form ide="signo-form" class="mt-4" action="show_zodiac_sign.php" method="post">
     <div class="form-group">
